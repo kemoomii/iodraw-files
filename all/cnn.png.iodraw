@@ -41,16 +41,16 @@
           <mxGeometry x="260" y="80" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-14" value="PixelShuffle (Upsampling)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-17" value="DUC1 (Dense Upsampling Convolution)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="200" width="230" height="60" as="geometry" />
+          <mxGeometry x="530" y="200" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-18" value="DUC2 (Dense Upsampling Convolution)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="320" width="230" height="60" as="geometry" />
+          <mxGeometry x="530" y="320" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-19" value="Conv2D (3x3, Output=17 Keypoint Heatmaps)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="170" height="60" as="geometry" />
+          <mxGeometry x="580" y="420" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
