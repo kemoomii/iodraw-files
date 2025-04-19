@@ -14,7 +14,7 @@
           <mxGeometry x="520" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-3" value="Layer2: [Bottleneck x4 + Deformable Conv]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13" y="450" width="234" height="60" as="geometry" />
+          <mxGeometry x="13" y="450" width="237" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-4" value="Layer3: [Bottleneck x6 + Deformable Conv]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13" y="555" width="237" height="60" as="geometry" />
