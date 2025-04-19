@@ -10,6 +10,9 @@
         <mxCell id="R-xP03TV5H4MseT_Ve7l-1" value="Input Image (3x256x192)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_Hq34T5oPXIjh2PZ1hYt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_Hq34T5oPXIjh2PZ1hYt-2" target="_Hq34T5oPXIjh2PZ1hYt-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-2" value="Layer4: [Bottleneck x3 + Deformable Conv]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="280" width="236" height="60" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="62" y="200" width="136" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-14" value="PixelShuffle (Upsampling)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="353" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
