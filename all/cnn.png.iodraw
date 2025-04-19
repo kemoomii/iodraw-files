@@ -67,6 +67,9 @@
         <mxCell id="_Hq34T5oPXIjh2PZ1hYt-20" value="Output Heatmaps (17x64x48)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="585" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_Hq34T5oPXIjh2PZ1hYt-29" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
