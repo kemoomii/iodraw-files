@@ -8,54 +8,54 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-1" value="Input Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="375" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CY3OyG5m-WRHoJIQYYjk-3" target="CY3OyG5m-WRHoJIQYYjk-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-3" value="Conv&lt;div&gt;3×3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="255" width="121" height="60" as="geometry" />
+          <mxGeometry x="255" y="465" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CY3OyG5m-WRHoJIQYYjk-4" target="CY3OyG5m-WRHoJIQYYjk-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-4" value="Pool&lt;div&gt;2&lt;span style=&quot;background-color: initial;&quot;&gt;×2&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="345" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CY3OyG5m-WRHoJIQYYjk-5" target="CY3OyG5m-WRHoJIQYYjk-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-5" value="Conv&lt;div&gt;3&lt;span style=&quot;background-color: initial;&quot;&gt;×3&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="435" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="645" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CY3OyG5m-WRHoJIQYYjk-6" target="CY3OyG5m-WRHoJIQYYjk-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="422" y="285" as="targetPoint" />
+            <mxPoint x="422" y="495" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-6" value="Pool&lt;div&gt;2&lt;span style=&quot;background-color: initial;&quot;&gt;×2&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="735" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CY3OyG5m-WRHoJIQYYjk-11" target="CY3OyG5m-WRHoJIQYYjk-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-11" value="Flatten" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="255" width="120" height="60" as="geometry" />
+          <mxGeometry x="453" y="465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CY3OyG5m-WRHoJIQYYjk-12" target="CY3OyG5m-WRHoJIQYYjk-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-12" value="FC&lt;div&gt;Output:128&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="345" width="120" height="60" as="geometry" />
+          <mxGeometry x="453" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CY3OyG5m-WRHoJIQYYjk-13" target="CY3OyG5m-WRHoJIQYYjk-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-13" value="FC&lt;div&gt;Output:9&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="435" width="120" height="60" as="geometry" />
+          <mxGeometry x="453" y="645" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CY3OyG5m-WRHoJIQYYjk-17" value="Output Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="CY3OyG5m-WRHoJIQYYjk-17" value="Output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="453" y="735" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
