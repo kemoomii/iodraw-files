@@ -31,7 +31,10 @@
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-6" value="Pool&lt;div&gt;2&lt;span style=&quot;background-color: initial;&quot;&gt;×2&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CY3OyG5m-WRHoJIQYYjk-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CY3OyG5m-WRHoJIQYYjk-11" value="Flatten" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CY3OyG5m-WRHoJIQYYjk-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
