@@ -8,10 +8,10 @@
           <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-3" value="Conv&lt;div&gt;3×3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="210" width="121" height="60" as="geometry" />
+          <mxGeometry x="360" y="130" width="121" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-4" value="Pool&lt;div&gt;2&lt;span style=&quot;background-color: initial;&quot;&gt;×2&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="79" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CY3OyG5m-WRHoJIQYYjk-5" value="Conv&lt;div&gt;3&lt;span style=&quot;background-color: initial;&quot;&gt;×3&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="390" width="120" height="60" as="geometry" />
