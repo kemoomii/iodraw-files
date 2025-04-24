@@ -38,7 +38,10 @@
           <mxGeometry x="540" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-13" value="右转弯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="220" width="60" height="30" as="geometry" />
+          <mxGeometry x="620" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-14" value="右转弯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
