@@ -73,7 +73,10 @@
           <mxGeometry x="570" y="480" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-25" value="训练" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="570" width="60" height="30" as="geometry" />
+          <mxGeometry x="484" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
