@@ -26,7 +26,13 @@
           <mxGeometry x="-150" y="324" width="430.09" height="260" as="geometry" />
         </mxCell>
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-9" value="待机" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-10" value="待机" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="294" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-11" value="待机" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
