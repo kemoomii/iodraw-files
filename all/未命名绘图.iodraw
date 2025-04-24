@@ -22,7 +22,7 @@
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-6" value="人体姿态估计" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="110" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8lHsnhBMBNeXHUQmR3a-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="j8lHsnhBMBNeXHUQmR3a-7">
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j8lHsnhBMBNeXHUQmR3a-7" target="j8lHsnhBMBNeXHUQmR3a-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="518.8823529411766" as="targetPoint" />
           </mxGeometry>
@@ -65,6 +65,9 @@
         </mxCell>
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-20" value="交通手势训练集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="484" y="339.65" width="184" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-23" value="LSTM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
