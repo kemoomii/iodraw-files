@@ -34,7 +34,7 @@
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-11" value="待机" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="294" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8lHsnhBMBNeXHUQmR3a-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-12" value="右转弯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
