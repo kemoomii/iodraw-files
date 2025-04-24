@@ -55,8 +55,8 @@
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-18" value="产生" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j8lHsnhBMBNeXHUQmR3a-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="60" height="30" as="geometry" />
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-19" value="空间特征序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-12.469999999999999" y="590" width="155.05" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
