@@ -58,6 +58,9 @@
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-19" value="空间特征序列" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-12.469999999999999" y="590" width="155.05" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="j8lHsnhBMBNeXHUQmR3a-20" value="交通手势训练集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="546" y="350" width="184" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
