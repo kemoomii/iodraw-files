@@ -17,7 +17,16 @@
           <mxGeometry x="540" y="120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8oZzf2sVJd1r_POj44vf-5" value="靠边停车" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="740" y="120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8oZzf2sVJd1r_POj44vf-6" value="停止" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="551" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8oZzf2sVJd1r_POj44vf-7" value="右转弯" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="551" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8oZzf2sVJd1r_POj44vf-8" value="直行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="551" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
