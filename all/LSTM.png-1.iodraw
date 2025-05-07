@@ -68,6 +68,9 @@
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-20" value="交通手势训练集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="484" y="339.65" width="184" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="FNumNwJ6s25_s_Vo7SoY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j8lHsnhBMBNeXHUQmR3a-23" target="FNumNwJ6s25_s_Vo7SoY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j8lHsnhBMBNeXHUQmR3a-23" value="LSTM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="484" y="409" width="120" height="90" as="geometry" />
         </mxCell>
@@ -83,8 +86,8 @@
         <mxCell id="FNumNwJ6s25_s_Vo7SoY-3" value="另一组空间特征序列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="424" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FNumNwJ6s25_s_Vo7SoY-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="590" width="120" height="60" as="geometry" />
+        <mxCell id="FNumNwJ6s25_s_Vo7SoY-5" value="交通手势类别" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="584" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
