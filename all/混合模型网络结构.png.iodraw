@@ -16,7 +16,7 @@
         <mxCell id="q1vLOn2XHZCHvyO8mNWh-2" value="Alphapose" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q1vLOn2XHZCHvyO8mNWh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1vLOn2XHZCHvyO8mNWh-4" target="q1vLOn2XHZCHvyO8mNWh-6">
+        <mxCell id="q1vLOn2XHZCHvyO8mNWh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1vLOn2XHZCHvyO8mNWh-4" target="q1vLOn2XHZCHvyO8mNWh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q1vLOn2XHZCHvyO8mNWh-4" value="关键点序列&lt;div&gt;[seq,51]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
