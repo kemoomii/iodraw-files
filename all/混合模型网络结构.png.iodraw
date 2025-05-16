@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q1vLOn2XHZCHvyO8mNWh-6" value="conv2d(1,16,(3,1))&lt;div&gt;+&lt;/div&gt;&lt;div&gt;maxpool2d(2,1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q1vLOn2XHZCHvyO8mNWh-8" value="reshape:[1,seq,51]" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="70" width="60" height="30" as="geometry" />
+          <mxGeometry x="320" y="90" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q1vLOn2XHZCHvyO8mNWh-10" value="conv2d(16,32,(3,1))&lt;div&gt;+&lt;/div&gt;&lt;div&gt;maxpool2d(2,1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="205" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q1vLOn2XHZCHvyO8mNWh-12" value="展平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="50" width="120" height="60" as="geometry" />
