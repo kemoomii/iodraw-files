@@ -37,11 +37,17 @@
         <mxCell id="q1vLOn2XHZCHvyO8mNWh-10" value="conv2d(16,32,(3,1))&lt;div&gt;+&lt;/div&gt;&lt;div&gt;maxpool2d(2,1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="q1vLOn2XHZCHvyO8mNWh-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q1vLOn2XHZCHvyO8mNWh-12" target="q1vLOn2XHZCHvyO8mNWh-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q1vLOn2XHZCHvyO8mNWh-12" value="展平" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="q1vLOn2XHZCHvyO8mNWh-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q1vLOn2XHZCHvyO8mNWh-14" value="全连接层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q1vLOn2XHZCHvyO8mNWh-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
