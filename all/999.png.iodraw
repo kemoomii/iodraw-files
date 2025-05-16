@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TJ8hmqM3wnDELJ90Xg2n-3" value="&lt;div&gt;# 分词和序列化&lt;/div&gt;&lt;div&gt;tokenizer = Tokenizer(num_words=vocab_size)&lt;/div&gt;&lt;div&gt;tokenizer.fit_on_texts(train_texts_processed)&lt;/div&gt;&lt;div&gt;train_sequences = tokenizer.texts_to_sequences(train_texts_processed)&lt;/div&gt;&lt;div&gt;test_sequences = tokenizer.texts_to_sequences(test_texts_processed)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;#统一文本长度&lt;/div&gt;&lt;div&gt;&lt;div&gt;train_data = pad_sequences(train_sequences, maxlen=max_sequence_length)&lt;/div&gt;&lt;div&gt;test_data = pad_sequences(test_sequences, maxlen=max_sequence_length)&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="TJ8hmqM3wnDELJ90Xg2n-3" value="&lt;div&gt;&lt;p&gt;def preprocess_text(text):&lt;br/&gt;# 去除标点符号&lt;br/&gt;text = text.translate(str.maketrans(&#39;&#39;, &#39;&#39;, string.punctuation))&lt;br/&gt;# 转换为小写&lt;br/&gt;text = text.lower()&lt;br/&gt;# 去除停用词&lt;br/&gt;stop_words = set(stopwords.words(&#39;english&#39;))&lt;br/&gt;words = text.split()&lt;br/&gt;filtered_words = [word for word in words if word not in stop_words]&lt;br/&gt;return &#39; &#39;.join(filtered_words)&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="450" height="200" as="geometry" />
         </mxCell>
       </root>
